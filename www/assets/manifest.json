@@ -1,0 +1,38 @@
+{
+  "tailwind.js": {
+    "url": "https://cdn.tailwindcss.com/3.4.17",
+    "sha256": "176e894661aa9cdc9a5cba6c720044cbbf7b8bd80d1c9a142a7c24b1b6c50d15"
+  },
+  "leaflet.js": {
+    "url": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js",
+    "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+  },
+  "leaflet.css": {
+    "url": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
+    "sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+  },
+  "lucide.js": {
+    "url": "https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js",
+    "sha256": "3411692820cb8d47543f69496aa25fd603a358f4498046f41c508a5a3342210e"
+  },
+  "images/layers.png": {
+    "url": "https://unpkg.com/leaflet@1.9.4/dist/images/layers.png",
+    "sha256": "1dbbe9d028e292f36fcba8f8b3a28d5e8932754fc2215b9ac69e4cdecf5107c6"
+  },
+  "images/layers-2x.png": {
+    "url": "https://unpkg.com/leaflet@1.9.4/dist/images/layers-2x.png",
+    "sha256": "066daca850d8ffbef007af00b06eac0015728dee279c51f3cb6c716df7c42edf"
+  },
+  "images/marker-icon.png": {
+    "url": "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
+    "sha256": "574c3a5cca85f4114085b6841596d62f00d7c892c7b03f28cbfa301deb1dc437"
+  },
+  "images/marker-icon-2x.png": {
+    "url": "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png",
+    "sha256": "00179c4c1ee830d3a108412ae0d294f55776cfeb085c60129a39aa6fc4ae2528"
+  },
+  "images/marker-shadow.png": {
+    "url": "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
+    "sha256": "264f5c640339f042dd729062cfc04c17f8ea0f29882b538e3848ed8f10edb4da"
+  }
+}

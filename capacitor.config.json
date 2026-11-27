@@ -1,0 +1,8 @@
+{
+  "appId": "gr.skoulas.fishing",
+  "appName": "Skoulas Fishing",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "plugins": { "CapacitorHttp": { "enabled": true } },
+  "android": { "allowMixedContent": false }
+}

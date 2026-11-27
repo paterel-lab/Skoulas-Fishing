@@ -1,0 +1,15 @@
+{
+  "name": "skoulas-fishing-android",
+  "version": "2.6.4",
+  "private": true,
+  "description": "Skoulas Fishing — Android (Capacitor)",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/filesystem": "^6.0.3",
+    "@capacitor/share": "^6.0.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}
